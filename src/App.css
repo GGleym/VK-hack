@@ -1,0 +1,31 @@
+* {
+  font-size: 20px;
+  font-family: -apple-system, system-ui, Helvetica Neue, Roboto, sans-serif;
+}
+
+.headerText {
+  text-align: center;
+  font-size: 32px;
+  color: #1F255E;
+}
+
+.contentImg {
+  width: 600px;
+  height: 400px;
+  margin: 0 auto 40px auto;
+}
+
+caption {
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+}
+
+.verseText {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: justify;
+  font-weight: 600;
+  color: #818C99;
+}
+
