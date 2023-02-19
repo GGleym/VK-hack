@@ -11,14 +11,14 @@ import '@vkontakte/vkui/dist/vkui.css';
 import {Verse} from "./components/Verse";
 import {AppCSS} from './App.css';
 import { ReactComponent as ImageSpatial } from "./assets/ImageSpatial.svg";
-import { ReactComponent as ImageArcona } from "./assets/↳ ImageArcona.svg";
-import { ReactComponent as ImageDecent } from "./assets/↳ ImageDecent.svg";
-import { ReactComponent as ImageFortnite } from "./assets/↳ ImageFortnite.svg";
-import { ReactComponent as ImageRoblox } from "./assets/↳ ImageRoblox.svg";
-import { ReactComponent as ImageRussian } from "./assets/↳ ImageRussian.svg";
-import { ReactComponent as ImageSandbox } from "./assets/↳ ImageSandbox.svg";
-import { ReactComponent as ImageSens } from "./assets/↳ ImageSens.svg";
-import { ReactComponent as ImageSomnium } from "./assets/↳ ImageSomnium.svg";
+import { ReactComponent as ImageArcona } from "./assets/ImageArcona.svg";
+import { ReactComponent as ImageDecent } from "./assets/ImageDecent.svg";
+import { ReactComponent as ImageFortnite } from "./assets/ImageFortnite.svg";
+import { ReactComponent as ImageRoblox } from "./assets/ImageRoblox.svg";
+import { ReactComponent as ImageRussian } from "./assets/ImageRussian.svg";
+import { ReactComponent as ImageSandbox } from "./assets/ImageSandbox.svg";
+import { ReactComponent as ImageSens } from "./assets/ImageSens.svg";
+import { ReactComponent as ImageSomnium } from "./assets/ImageSomnium.svg";
 
 
 const App = () => {
